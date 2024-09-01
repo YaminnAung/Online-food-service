@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Tahoma';
+    box-sizing: border-box;
+  }
+
+  .header img{
+    width: 40px;
+    height: 40px; 
+  }
+
+  .header{
+    margin-left: 60px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .h2Foodie{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 21px;
+    padding-left: 6%;
+    padding-top: 6%;
+  }
+
+  nav{
+    background-color: #fff;
+    width: 100%;
+    height: 65px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 50px;
+    position: fixed;
+    top: 0;
+    z-index: 1;
+    box-shadow: 3px 3px 3px whitesmoke;
+  }
+
+  .menu{
+    margin-right: 60px;
+  }
+
+  .menu a{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+    position: relative;
+    font-size: 18px;
+    color: grey;
+    text-decoration: none;
+    margin:  30px;
+  }
+
+  .test{
+    margin-top: 13%;
+    margin-left: 12%;
+    margin-right: 10%;
+  }
+
+  .test-h1{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 55px;
+    color: green;
+    margin-bottom: 20px;
+  }
+
+  .test-p{
+    font-size: 18px;
+    color: grey;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    line-height: 1.6;
+  }
+
+  .test-h3{
+    margin-top: 30px;
+  }
+
+  .food-photo img{
+    width: 530px;
+    height: 530px;
+    margin-top: 14%;
+    margin-right: 170px;
+  }
+  .home-food{
+    display: flex;
+    justify-content: space-between; 
+  }
+
+  .test-h3{
+    font-size: 25px;
+  }
+
+  .cart{
+    padding: 15px 30px 15px 30px;
+    background-color: green;
+    color: #fff;
+    border-radius: 10px;
+    border: none;
+    font-size: 16px;
+  }
+
+  .bars{
+    padding: 15px 30px 15px 30px;
+    background-color: #fff;
+    color: green;
+    border-radius: 10px;
+    border-style: groove;
+    border-color: green;
+    font-size: 16px;
+  }
+
+  .icons{
+    margin-top: 30px;
+  }
+
+  .about-page{
+    
+  }
+
+ .about img{
+    width: 400px;
+    height: 400px;
+    margin-left: 18%;
+    margin-top: 20%;
+  }
+
+  .img-about{
+    box-shadow: 10px 10px 10px 10px whitesmoke;
+  }
